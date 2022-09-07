@@ -5,6 +5,8 @@ function ExpenseItem() {
   const expenseTitle = "Car Insurance";
   const expenseAmount = 294.67;
 
+  // Note regarding {} usage.  It can use any function or call
+
   return (
     <div className="expense-item">
       <div>{expenseDate.toISOString()}</div>
