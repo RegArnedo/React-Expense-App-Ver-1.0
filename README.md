@@ -1,4 +1,4 @@
-# What is this?
+# React Expense App Ver 1.0
 
 One of the first things I built using React is this Expense Tracker application. Specifically this is Ver 1.0 of learning and walking through the steps to create the application.
 
